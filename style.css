@@ -2,7 +2,7 @@
     width: 100vw;
     height: 100vh;
     overflow: hidden;
-    background-image: url(imagens/bandeira_do_exercito_brasileiro_fundo_camuflado_dupla_face_estampada_tamanho_90x128cm_2321_4_f4c9f4843c89d8e5c942b689ef58f8cc.webp);
+    background-image: url(./imagens/bandeira_do_exercito_brasileiro_fundo_camuflado_dupla_face_estampada_tamanho_90x128cm_2321_4_f4c9f4843c89d8e5c942b689ef58f8cc.webp);
     background-size: cover;
     background-position: center;
     font-family: 'Open Sans', sans-serif;
@@ -21,7 +21,7 @@
     position: relative;
     width: 800px;
     height: 600px;
-    background-image: url(imagens/OIP.webp);
+    background-image: url(./imagens/OIP.webp);
     background-position: -50px;
 
     border-radius: 50px;
@@ -38,7 +38,7 @@
     height: 59px;
     left: 12px;
     top: 18px;
-    background-image: url(imagens/D_NQ_NP_967772-MLB74964938336_032024-O.webp);
+    background-image: url(./imagens/D_NQ_NP_967772-MLB74964938336_032024-O.webp);
     border-radius: 600px;
     background-size: cover;
     display: flex;
